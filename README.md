@@ -4,7 +4,7 @@
 
 ## About
 
-This project provides a highly optimized implementation of matrix multiplication. While it offers exceptional performance, the speed and computational intensity can be demanding on your hardware.
+This project provides a highly optimized implementation of matrix multiplication for ARM. While it offers exceptional performance, the speed and computational intensity can be demanding on your hardware.
 
 ## Safety First
 
@@ -16,3 +16,4 @@ We strongly recommend taking the following precautions before using this code:
 * **Rest Breaks:** Take regular breaks to avoid eye fatigue and give your hardware a chance to cool down.
 
 ![Matrix Multiplication in Action](fast.jpg)
+
